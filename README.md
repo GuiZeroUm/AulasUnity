@@ -12,7 +12,7 @@
 
 As seguintes ferramentas estão sendo usadas:
 
-- [C#]([https://www.mysql.com/downloads/](https://learn.microsoft.com/pt-br/dotnet/csharp/tour-of-csharp/))
+- [C#](https://learn.microsoft.com/pt-br/dotnet/csharp/tour-of-csharp/)
 - [Unity](https://unity.com/pt)
 - [Vscode](https://visualstudio.microsoft.com/pt-br/#vs-section)
 
